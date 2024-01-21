@@ -1,0 +1,14 @@
+{
+  "name": "project-abc-webcomponents",
+  "version": "0.0.1",
+  "description": "Project ABC Reusable Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webcomponents"
+  ],
+  "author": "alfonsotabeta",
+  "license": "MIT"
+}
